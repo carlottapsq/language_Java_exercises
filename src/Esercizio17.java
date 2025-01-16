@@ -1,3 +1,11 @@
+//Scrivere una funzione C++ che, a partire da due vettori numerici ordinati forniti
+//come argomenti, ne costruisca un terzo avente dimensione pari alla somma delle
+//due dimensioni e contenente tutti gli elementi dei due vettori in una sequenza ordinata
+// (per esempio, da {1, 2, 4} e {1, 3, 9} si deve ottenere {1, 1, 2, 3, 4, 9}).
+// Scrivere un programma C++ che, utilizzando la funzione precedente e costruendo
+// i vettori iniziali a partire da valori acquisiti da tastiera, visualizzi il vettore risultato.
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

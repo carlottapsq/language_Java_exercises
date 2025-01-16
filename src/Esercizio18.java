@@ -1,3 +1,8 @@
+//Scrivere una funzione C++ che restituisca la differenza tra il valore massimo
+//e il valore minimo di un vettore di n elementi. Scrivere un programma C++ che
+//calcoli e visualizzi il risultato dopo aver richiesto all'utente l'inserimento degli elementi.
+
+
 import java.util.Scanner;
 
 public class Esercizio18 {

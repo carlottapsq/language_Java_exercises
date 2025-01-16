@@ -1,3 +1,8 @@
+//Scrivere una funzione C++ che determini, producendo come risultato true o false, se
+//una matrice quadrata di n x n elementi è simmetrica, cioè se gli elementi di coordinate
+//[i] [j] sono uguali a quelli di coordinate [j] [i].
+
+
 {
 
 public static boolean eSimmetrica(int[][] matrice) {

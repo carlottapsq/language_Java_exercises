@@ -1,3 +1,9 @@
+//Scrivere una funzione C++ che, a partire da un vettore numerico di dimensione n fornito come parametro,
+// copi in un secondo vettore (anch'esso fornito come parametro) i soli elementi del primo vettore compresi tra
+// un valore minimo a e un valore massimo b (anch'essi argomenti della funzione); la funzione deve restituire il numero
+// di elementi inseriti nel secondo vettore. Scrivere un programma C++ che, utilizzando la funzione precedente,
+// visualizzi gli elementi del secondo vettore dopo aver richiesto l'inserimento da tastiera dei valori del primo vettore.
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

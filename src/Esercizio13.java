@@ -1,10 +1,13 @@
+//Scrivere un programma in Java che richieda all'utente di inserire un certo numero di interi, memorizzarli
+// in un array e poi invertire l'ordine degli elementi dell'array. Infine, il programma deve stampare l'array invertito.
+
 import java.util.Scanner;
 
 public class Esercizio13 {
     public static void main(String[] args) {
         int n, prec1, prec2;
         Scanner sc = new Scanner(System.in);
-        System.out.print("quanti numeri vuoi inseirire?");
+        System.out.print("quanti numeri vuoi inserire?");
         n = sc.nextInt();
         int[] array = new int[n];
         System.out.println("inserisci i numeri");
