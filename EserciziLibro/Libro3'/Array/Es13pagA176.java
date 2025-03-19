@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Esercizio13 {
+public class Es13pagA176 {
     public static void main(String[] args) {
         int n, prec1, prec2;
         Scanner sc = new Scanner(System.in);

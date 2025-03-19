@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class Esercizio18 {
+public class Es18pagA177 {
     public static void main(String[] args) {
         int n, min, max;
         Scanner sc = new Scanner(System.in);

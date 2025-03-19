@@ -7,7 +7,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Esercizio15 {
+public class Es15pagA177 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

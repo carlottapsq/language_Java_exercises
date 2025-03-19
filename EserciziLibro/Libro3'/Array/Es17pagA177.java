@@ -9,7 +9,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Esercizio17 {
+public class Es17pagA177 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Integer> resultArray = new ArrayList<>();
